@@ -1,0 +1,22 @@
+.lable {
+	
+}
+
+body {
+	text-align: center;
+
+}
+
+.size {
+	font-family: "Arial";
+	font-size: 20px;
+	color: gray;
+	
+}
+
+
+#line {
+	background-color: black;
+	height: 1px;
+	width: 100%;
+}
