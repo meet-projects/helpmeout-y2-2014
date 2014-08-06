@@ -26,9 +26,27 @@ td{
 	width: 500px;
 	height: 50px;
 	text-align: right;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+	border-color: rgb(0,0,0);
+=======
+>>>>>>> e1dfa7f0debebf9e726aec5d74790d7f2913ff40
 
 	border-color: rgb(0,0,0);
 
+}
+
+
+table{
+	display: inline;
+	float: right;
+>>>>>>> 47270283030edafa303c9a3f0380715690612f3d
+	border-color: rgb(0,0,0);
+	font-family: font;
 }
 
 
@@ -39,8 +57,3 @@ table{
 	font-family: font;
 }
 
-table{
-	display: inline;
-	float: right;
-	border-color: rgb(0,0,0);
-}
