@@ -8,8 +8,10 @@ body {
 }
 
 .size {
+	font-family: "Arial";
 	font-size: 20px;
 	color: gray;
+	
 }
 
 
