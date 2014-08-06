@@ -7,7 +7,7 @@ h1{
         border-raduis: 50px;
 }
 
-td{
+#td{
 	wight: 500px;
 	hight: 500px;
 }
