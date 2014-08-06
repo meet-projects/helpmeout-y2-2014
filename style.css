@@ -8,8 +8,15 @@ h1{
 }
 
 td{
-	wight: 500px;
-	hight: 500px;
-}
- 
 
+	width: 500px;
+	height: 50px;
+	text-align: right;
+	border-color: rgb(0,0,0);
+}
+
+table{
+	display: inline;
+	float: right;
+	border-color: rgb(0,0,0);
+}
