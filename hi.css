@@ -4,11 +4,11 @@
 
 body {
 	text-align: center;
-
+	
 }
 
 .size {
-	font-family: "Arial";
+	font-family: "Times New Roman";
 	font-size: 20px;
 	color: gray;
 	
@@ -19,4 +19,9 @@ body {
 	background-color: black;
 	height: 1px;
 	width: 100%;
+}
+
+@font-face {
+    font-family: Champagne & Limousines;
+    src: url(champagne.ttf);
 }

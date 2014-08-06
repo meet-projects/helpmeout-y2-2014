@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-#a{
+#right{
     position: fixed;
     right: 200px;
 }
@@ -13,7 +13,7 @@ h1{
         border-raduis: 50px;
 }
 
-#td{
+td{
 	wight: 500px;
 	hight: 500px;
 }
