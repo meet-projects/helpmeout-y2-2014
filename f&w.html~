@@ -1,0 +1,30 @@
+<!Doctype html>
+<html>
+	<head>
+		<title> Help Me Out!-Food & Water! </title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+	<body>
+	<h1> Food & Water </h1>
+	   <table border=3 width="900px">
+           <tr> 
+		<th><h2> The Full Name </h2></th>
+		<th><h2> The Phone Number </h2></th>
+		<th><h2> The Location </h2></th>
+		<th><h2> More Details </h2></th>
+           </tr>
+		
+
+	<tr>	
+		<td> </td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+	</tr>
+          
+       </table>
+
+	</body>
+
+</html>

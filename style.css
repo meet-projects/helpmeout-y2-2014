@@ -1,4 +1,22 @@
+<<<<<<< HEAD
 #right{
     position: fixed;
     right: 200px;
 }
+=======
+h1{
+	color: #CC3333;
+	font-size: 65px;
+	font-family: "Times New Roman";
+	background-color: #F6CED8;
+	text-align: center;
+        border-raduis: 50px;
+}
+
+td{
+	wight: 500px;
+	hight: 500px;
+}
+ 
+
+>>>>>>> fd2ce2832c543f4b39a79d175e37bfb72e94b3e9
