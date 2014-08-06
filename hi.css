@@ -4,7 +4,7 @@
 
 body {
 	text-align: center;
-
+	
 }
 
 .size {
@@ -19,4 +19,9 @@ body {
 	background-color: black;
 	height: 1px;
 	width: 100%;
+}
+
+@font-face {
+    font-family: Champagne & Limousines;
+    src: url(champagne.ttf);
 }
