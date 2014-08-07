@@ -6,16 +6,63 @@ h1{
 	text-align: center;
 	
 }
+<<<<<<< HEAD
+=======
+
+
+{	
+	background-color: #F6CED8;
+	text-align: center;
+        border-raduis: 50px;
+}
+>>>>>>> ee0d2038a0c83bd580ca948d9d33d8e6be48a934
 
 td{
 
 	width: 500px;
 	height: 50px;
 	text-align: right;
-	background-color: #F6CED8;
+<<<<<<< HEAD
 	text-align: center;
         border-raduis: 50px;
 
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> d8728b67d73fc0cd678a7f0b857dd1caf6b76f70
+
+=======
+<<<<<<< HEAD
+	border-color: rgb(0,0,0);
+=======
+<<<<<<< HEAD
+
+	border-color: rgb(0,0,0);
+=======
+>>>>>>> e1dfa7f0debebf9e726aec5d74790d7f2913ff40
+
+>>>>>>> eea4094170c218cd5e0ded01267226181467f327
+	border-color: rgb(0,0,0);
+
+>>>>>>> d8728b67d73fc0cd678a7f0b857dd1caf6b76f70
+}
+
+
+table{
+	display: inline;
+	float: right;
+	border-color: rgb(0,0,0);
+	font-family: font;
+<<<<<<< HEAD
+>>>>>>> 7119817cc9915221d25c179e39f5f777f0a957e8
+=======
+>>>>>>> d8728b67d73fc0cd678a7f0b857dd1caf6b76f70
+>>>>>>> ee0d2038a0c83bd580ca948d9d33d8e6be48a934
 }
 
 

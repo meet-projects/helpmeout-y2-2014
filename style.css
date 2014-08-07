@@ -3,18 +3,17 @@ h1{
 	color: #CC3333;
 	background-color: #F6CED8;
 	font-size: 65px;
-	text-align: center;
-	
+	text-align: center;	
 }
+
 
 td{
 
 	width: 500px;
 	height: 50px;
 	text-align: right;
-	text-align: center;
         border-raduis: 50px;
-
+	border-color: rgb(0,0,0);
 }
 
 
@@ -24,4 +23,6 @@ table{
 	border-color: rgb(0,0,0);
 	font-family: font;
 }
+
+
 
