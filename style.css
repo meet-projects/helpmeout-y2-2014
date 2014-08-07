@@ -1,7 +1,12 @@
+@font-face {
+    font-family: font;
+    src: url(champagne.ttf);
+}
+
 h1{
-    	font-family: 
+    	font-family: font;
 	color: #CC3333;
-	background-color: #F6CED8;
+	background-color:none;
 	font-size: 65px;
 	text-align: center;	
 }
@@ -22,7 +27,7 @@ table{
 	float: right;
 	border-color: rgb(0,0,0);
 	font-family: font;
+	font-color:gray;
 }
-
 
 

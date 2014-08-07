@@ -11,7 +11,7 @@
 		<br />
 		<input type="text" name="" value="address" class="lines">
 		<br />
-		<textarea type="" name="" class="lines">What you can help us with?</textarea>
+		<textarea type="" name="" class="lines">What can you help with?</textarea>
 </div>
 		</form>
 
