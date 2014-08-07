@@ -2,9 +2,36 @@
 <html>
 	<head>
 		<title> Help Me Out!-Food & Water! </title>
-		<link rel="stylesheet" type="text/css" href="style.css" />
+		<link rel="stylesheet" type="text/css" href="bootstrap/dist/css/bootstrap.css"/>
+		<link rel="stylesheet" type="text/css" href="data.css" />
+		<link rel="stylesheet" type="text/css" href="demo.css"/>
+
 	</head>
 	<body>
+		
+	<nav id="navbar" class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <img class="logo" class="brand" src="logo.jpeg" width="100px" height="100px" onclick="parent.location='homepage.html'">
+	<span> <img class="logo" src="115503-magic-marker-icon-food-beverage-knife-fork.png" width="40" height="40" onclick="parent.location='f&w.html'">
+		<img class="logo" src="68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f333732313334312f313534323537332f64656131626239342d346434382d313165332d396261372d3365353930343839363733312e706e67.png" width="40" height="40" onclick="parent.location='transportation.html'">
+		<img class="logo" src="DIY-Hammer-icon.png"width="40" height="40" onclick="parent.location='Professionalhelp.html'">
+		<img class="logo" src="lightbulb-512.png"width="40" height="40" onclick="parent.location='supplies.html'">
+		<img class="logo" src="medical.png"width="40" height="40"onclick="parent.location='medicalhelp.html'"></span>
+		
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="#" onclick="parent.location='contactus.html'"> <span class="glyphicon glyphicon-earphone"> Contact us </span></a></li>
+		
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid --> 
+</nav>
+ 
 	<h1> Food & Water </h1>
 	   <table border="2" width="1000px">
            <tr> 
@@ -121,7 +148,22 @@
 	</tr>
           
        </table>
-
+		
+		<link rel="stylesheet" type="text/css" href="sidebar.css">	
+	
+		<form action="#" method = "get"> 
+<div class="form">
+		<input type="text" name="" value="Full Name" class="lines">
+		<br />
+		<input type="text" name="" value="Address" class="lines">
+		<br />
+		<input type="text" name="" value="Phone Number" class="lines">
+		<br />
+		
+		<textarea type="" name="" class="lines">What can you help with?</textarea>
+		<input type="Submit">
+</div>
+		</form>
 	</body>
 
 </html>
