@@ -1,24 +1,10 @@
-@font-face {
-    font-family: font;
-    src: url(champagne.ttf);
-} 
-
-#right{
-    position: fixed;
-    right: 200px;
-}
-
 h1{
-    font-family: font;
+    	font-family: 
 	color: #CC3333;
+	background-color: #F6CED8;
 	font-size: 65px;
 	text-align: center;
-	font-weight: bold;
 	
-}
-	background-color: #F6CED8;
-	text-align: center;
-        border-raduis: 50px;
 }
 
 td{
@@ -26,39 +12,9 @@ td{
 	width: 500px;
 	height: 50px;
 	text-align: right;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
->>>>>>> d8728b67d73fc0cd678a7f0b857dd1caf6b76f70
+	text-align: center;
+        border-raduis: 50px;
 
-=======
-<<<<<<< HEAD
-	border-color: rgb(0,0,0);
-=======
-<<<<<<< HEAD
-
-	border-color: rgb(0,0,0);
-=======
->>>>>>> e1dfa7f0debebf9e726aec5d74790d7f2913ff40
-
-	border-color: rgb(0,0,0);
-
->>>>>>> d8728b67d73fc0cd678a7f0b857dd1caf6b76f70
-}
-
-
-table{
-	display: inline;
-	float: right;
->>>>>>> 47270283030edafa303c9a3f0380715690612f3d
-	border-color: rgb(0,0,0);
-	font-family: font;
-<<<<<<< HEAD
->>>>>>> 7119817cc9915221d25c179e39f5f777f0a957e8
-=======
->>>>>>> d8728b67d73fc0cd678a7f0b857dd1caf6b76f70
 }
 
 
