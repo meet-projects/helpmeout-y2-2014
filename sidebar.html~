@@ -11,11 +11,15 @@
 		<br />
 		<input type="text" name="" value="Address" class="lines">
 		<br />
+<<<<<<< HEAD
 		<input type="text" name="" value="Phone Number" class="lines">
 		<br />
 		
 		<textarea type="" name="" class="lines">What you can  with?</textarea>
 		<input type="Submit">
+=======
+		<textarea type="" name="" class="lines">What can you help with?</textarea>
+>>>>>>> d0263671c55df6b46e9b044481b2bc995aca4299
 </div>
 		</form>
 
