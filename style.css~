@@ -27,13 +27,17 @@ td{
 	height: 50px;
 	text-align: right;
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 
 =======
 <<<<<<< HEAD
 	border-color: rgb(0,0,0);
 =======
+>>>>>>> e1dfa7f0debebf9e726aec5d74790d7f2913ff40
 
 	border-color: rgb(0,0,0);
+
 }
 
 
@@ -43,7 +47,6 @@ table{
 >>>>>>> 47270283030edafa303c9a3f0380715690612f3d
 	border-color: rgb(0,0,0);
 	font-family: font;
->>>>>>> 7119817cc9915221d25c179e39f5f777f0a957e8
 }
 
 
