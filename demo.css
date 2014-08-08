@@ -1,0 +1,21 @@
+h1{
+	color: #CC3333;
+	font-size: 65px;
+	font-family: "Times New Roman";
+	background-color: none;
+	text-align: center;
+        border-radius: 50px;
+}
+
+td{
+	height: 500px;
+	width: 500px;
+}
+
+.logo:hover {
+	cursor: -webkit-grab;
+}
+
+#navbar {
+	background-color:#95CAE4;
+}

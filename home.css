@@ -1,0 +1,14 @@
+@font-face {
+    font-family: font;
+    src: url(champagne.ttf);
+} 
+#wow{
+	color: #CC3333;
+	font-size: 40px;
+	font-family:font;
+}
+#beh{
+	color: #CC3333;
+	font-size: 35px;
+	font-family:font;
+}

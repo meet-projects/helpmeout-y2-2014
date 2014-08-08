@@ -9,21 +9,21 @@
 <div class="form">
 		<input type="text" name="" value="Full Name" class="lines">
 		<br />
-		<input type="text" name="" value="address" class="lines">
+		<input type="text" name="" value="Address" class="lines">
 		<br />
-		<textarea type="" name="" class="lines">What you can help us with?</textarea>
+<<<<<<< HEAD
+		<input type="text" name="" value="Phone Number" class="lines">
+		<br />
+		
+		<textarea type="" name="" class="lines">What you can  with?</textarea>
+		<input type="Submit">
+=======
+		<textarea type="" name="" class="lines">What can you help with?</textarea>
+>>>>>>> d0263671c55df6b46e9b044481b2bc995aca4299
 </div>
 		</form>
 
-		<!--<span class="v">
-			<form action="#" method = "get"> 
-				<input type="text" name="" value="Full Name" class="lines">
-				<br />
-				<input type="text" name="" value="address" class="lines">
-				<br />
-				<textarea  name="help" class="lines">What you can help us with?</textarea>
-			</form>
-		</span>-->
+		
 	</body>
 </html>
  
